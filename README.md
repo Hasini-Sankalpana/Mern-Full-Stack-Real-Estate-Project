@@ -8,7 +8,7 @@
     <header>
         <h1>Dream Estates (A Real Estate Marketplace)</h1>
         <p>This real estate marketplace web application was built on the MERN stack. The app offers a comprehensive real estate marketplace experience. Users can sign up, create and manage listings, search for properties, and interact with landlords.</p>
-       <img src="https://github.com/user-attachments/assets/23b3e22f-fbc3-462c-9739-314f74b044c0" alt="Real-Estate Website" style="max-width: 150px; display: block; margin: 0 auto;">
+       <img src="https://github.com/user-attachments/assets/23b3e22f-fbc3-462c-9739-314f74b044c0](https://github.com/user-attachments/assets/0272482d-10fa-473c-9a46-236314dd2d7a" alt="Real-Estate Website" style="max-width: 150px; display: block; margin: 0 auto;">
     </header>
     <main>
         <section>
